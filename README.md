@@ -6,7 +6,7 @@
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nicholas1025&show_icons=true&theme=gotham" alt="Nicholas1025" />
-<p align="center"> <img src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas1025" />  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas1025" />  
 <!--
 **Nicholas1025/Nicholas1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
