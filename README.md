@@ -1,5 +1,11 @@
-## Hi there 👋
+# Yo, Nicholas Speaking
 
+## 👨‍💻 About Me
+🏞 Outdoor enthusiast—if I'm not coding, I'm probably hiking somewhere.
+
+
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nicholas1025&show_icons=true&theme=gotham" alt="Nicholas1025" />
 <!--
 **Nicholas1025/Nicholas1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
