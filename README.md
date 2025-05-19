@@ -1,6 +1,6 @@
 # Yo, Nicholas Speaking
 
-## 👨‍💻 About Me https://www.linkedin.com/in/nicholas-t-bb65831b2/
+
 
 🏞 Outdoor enthusiast—if I'm not coding, I'm probably hiking somewhere.
 
